@@ -1,5 +1,5 @@
 # @vieirarester
-Olá! Sou a Ester e na tecnologia, eu construo minha história, bit a bit, aqui. 
+Olá! Sou Ester e na tecnologia, eu construo minha história, bit a bit, aqui. 
 
 ## Vamos nos conectar?
 <p align="left">
