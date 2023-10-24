@@ -7,3 +7,6 @@
 - [Gerador de README online](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [Utilitários BADGES [README]](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/badges/badges.md)
 - [Utilitários CARDS STATS [README]](https://github.com/digitalinnovationone/dio-lab-open-source/blob/main/utils/cards/github-stats.md)
+
+- ## CSS
+- [CSS3 Patterns Gallery](https://projects.verou.me/css3patterns/)
